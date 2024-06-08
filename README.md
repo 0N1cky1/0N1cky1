@@ -1,15 +1,10 @@
 ## Hi...
 <p>My name is nick, i am a colombian university student, i created this profile for a subject of programation, i will upload every codes that i create in this profile </p>
 
-<a href="https://0n1cky1.github.io/Memory-Game/">
-    <img src="https://preview.redd.it/utuw08f148451.jpg?auto=webp&s=13271a6c5aa1295f06f0d2b2f18a02bfd6134bd0" width="300" height="380" alt="Juego de memoria" />
-    <p>Juego de memoria</p>
-</a>
+| [![Juego de memoria](https://preview.redd.it/utuw08f148451.jpg?auto=webp&s=13271a6c5aa1295f06f0d2b2f18a02bfd6134bd0)](https://0n1cky1.github.io/Memory-Game/) | [![Blue lock Page](https://i.pinimg.com/736x/4b/23/76/4b237617aa0f12c814d8a8dd0bb7602d.jpg)](https://0n1cky1.github.io/Mi-primer-pagina/) |
+|:---:|:---:|
+| [Juego de memoria](https://0n1cky1.github.io/Memory-Game/) | [Blue lock Page](https://0n1cky1.github.io/Mi-primer-pagina/) |
 
-<a href="https:https://codepen.io/0N1cky1/pen/abrmYQd/">
-    <img src="https://m.media-amazon.com/images/I/61Bmui0043L._AC_SL1500_.jpg" width="300" height="380" alt="Juego de memoria" />
-    <p>Katana en mapa</p>
-</a>
         
 <!--
 **0N1cky1/0N1cky1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
